@@ -1,0 +1,9 @@
+*.pem
+.env
+*.zip
+*.mp4
+*.png
+*.h5
+*.pkl
+*.exe
+node_modules/

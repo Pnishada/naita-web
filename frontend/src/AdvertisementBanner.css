@@ -1,0 +1,35 @@
+/* Base Styles */
+.ad-container {
+  max-width: 1200px;
+  margin: 2rem auto;
+  padding: 0 1rem;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+  cursor: pointer;
+}
+
+.ad-container:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.15);
+}
+
+.ad-image-full {
+  width: 100%;
+  height: auto;
+  display: block;
+  transition: transform 0.5s ease;
+}
+
+.ad-container:hover .ad-image-full {
+  transform: scale(1.02);
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .ad-container {
+    margin: 1rem auto;
+    border-radius: 4px;
+  }
+}
