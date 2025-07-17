@@ -1,6 +1,6 @@
 import TopBar from '../components/TopBar/TopBar';
 import Navbar from '../components/Navbar/Navbar';
-import Breadcrumb from '../components/BreadCrumb/BreadCrumb';  // there is a mistake in the name remember to check it 
+import Breadcrumb from '../components/Breadcrumb/Breadcrumb';  // there is a mistake in the name remember to check it 
 import Footer from '../components/Footer/Footer';
 import { MapPin, Phone, Mail, Clock, Send } from 'react-feather';
 

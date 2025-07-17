@@ -1,4 +1,4 @@
-import Breadcrumb from "../components/BreadCrumb/BreadCrumb";
+import Breadcrumb from "../components/Breadcrumb/Breadcrumb";
 import EnrollmentForm from "../components/Enrollment/EnrollmentForm";
 import Navbar from "../components/Navbar/Navbar";
 

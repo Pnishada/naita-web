@@ -5,7 +5,7 @@ import { getCourses, getCourseCategories } from '../services/CourseService';
 import { getDistricts } from '../services/LocationService';
 import CourseCard from '../components/Course/CourseCard';
 import Navbar from '../components/Navbar/Navbar';
-import Breadcrumb from '../components/BreadCrumb/BreadCrumb';
+import Breadcrumb from '../components/Breadcrumb/Breadcrumb';
 import TopBar from '../components/TopBar/TopBar';
 
 export default function AllCoursesPage() {

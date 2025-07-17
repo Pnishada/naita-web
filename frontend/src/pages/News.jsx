@@ -4,7 +4,7 @@ import API from '../services/api';
 import NewsCard from '../components/NewsSection/NewsCard';
 import Navbar from '../components/Navbar/Navbar';
 import { Search, Filter, ChevronDown, ChevronUp } from 'react-feather';
-import Breadcrumb from '../components/BreadCrumb/BreadCrumb';
+import Breadcrumb from '../components/Breadcrumb/Breadcrumb';
 import TopBar from '../components/TopBar/TopBar';
 import {useLanguage} from '../context/LanguageContext';
 import Footer from '../components/Footer/Footer';

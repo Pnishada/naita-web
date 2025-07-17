@@ -7,7 +7,7 @@ import NewsCard from '../components/NewsSection/NewsCard';
 import 'swiper/css';
 import 'swiper/css/pagination';
 import Navbar from '../components/Navbar/Navbar';
-import Breadcrumb from '../components/BreadCrumb/BreadCrumb';
+import Breadcrumb from '../components/Breadcrumb/Breadcrumb';
 import TopBar from '../components/TopBar/TopBar';
 import { useLanguage } from '../context/LanguageContext';
 

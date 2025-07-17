@@ -2,7 +2,7 @@ import { FaDownload } from 'react-icons/fa';
 
 import Navbar from '../components/Navbar/Navbar';
 import TopBar from '../components/TopBar/TopBar';
-import Breadcrumb from '../components/BreadCrumb/BreadCrumb';
+import Breadcrumb from '../components/Breadcrumb/Breadcrumb';
 import Footer from '../components/Footer/Footer';
 
 const pdfFiles = [

@@ -2,7 +2,7 @@ import { useEffect, useState } from 'react';
 import { useParams } from 'react-router-dom';
 import { getCourseDetails } from '../services/CourseService';
 import Navbar from '../components/Navbar/Navbar';
-import Breadcrumb from '../components/BreadCrumb/BreadCrumb';
+import Breadcrumb from '../components/Breadcrumb/Breadcrumb';
 
 export default function CourseDetail() {
   const { id } = useParams();

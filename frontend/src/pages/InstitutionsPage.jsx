@@ -2,7 +2,7 @@ import TopBar from '../components/TopBar/TopBar';
 import Navbar from '../components/Navbar/Navbar';
 import Institutions from '../components/Institutions/Institutions';
 import Footer from '../components/Footer/Footer';
-import Breadcrumb from '../components/BreadCrumb/BreadCrumb';
+import Breadcrumb from '../components/Breadcrumb/Breadcrumb';
 import { useEffect } from 'react';
 import { useLocation } from 'react-router-dom';
 

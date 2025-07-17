@@ -1,5 +1,5 @@
 import Navbar from '../components/Navbar/Navbar';
-import Breadcrumb from '../components/BreadCrumb/BreadCrumb';
+import Breadcrumb from '../components/Breadcrumb/Breadcrumb';
 import { useEffect, useState } from 'react';
 import { 
     getBoardMembers, 

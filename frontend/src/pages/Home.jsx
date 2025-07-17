@@ -9,7 +9,7 @@ import NewsSection from '../components/NewsSection/NewsSection';
 import TestimonialSection from '../components/TestimonialSection/TestimonialSection';
 import DashboardStats from '../components/DashboardStats/DashboardStats';
 import FAQSection from '../components/FAQSection/FAQSection';
-import Breadcrumb from '../components/BreadCrumb/BreadCrumb';
+import Breadcrumb from '../components/Breadcrumb/Breadcrumb';
 import ContactUsBar from '../components/ContactUsBar/ContactUsBar';
 
 import ChatBot from '../components/ChatBot/ChatBot';
