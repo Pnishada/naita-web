@@ -2,7 +2,7 @@
 .env
 *.zip
 *.mp4
-*.png
+#*.png
 *.h5
 *.pkl
 *.exe
